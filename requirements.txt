@@ -5,3 +5,9 @@ imbalanced-learn
 matplotlib
 seaborn
 shap
+joblib
+fastapi
+uvicorn
+streamlit
+pytest
+httpx
